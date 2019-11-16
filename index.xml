@@ -6,7 +6,7 @@
     <description>Recent content on Miracle Cheese Bunnies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2019 11:52:25 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 18:52:25 +0000</lastBuildDate>
     
 	<atom:link href="https://miraclecheesebunnies.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>My First Post</title>
       <link>https://miraclecheesebunnies.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 16 Nov 2019 11:52:25 -0700</pubDate>
+      <pubDate>Sat, 16 Nov 2019 18:52:25 +0000</pubDate>
       
       <guid>https://miraclecheesebunnies.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>##Hi everyone!
+Welcome to Miracle Cheese Bunnies.</description>
     </item>
     
   </channel>
