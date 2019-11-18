@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Miracle Cheese Bunnies</title>
-    <link>https://blog.miraclecheesebunnies.cf/posts/</link>
+    <link>https://miraclecheesebunnies.github.io/posts/</link>
     <description>Recent content in Posts on Miracle Cheese Bunnies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Nov 2019 18:52:25 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.miraclecheesebunnies.cf/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miraclecheesebunnies.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://blog.miraclecheesebunnies.cf/posts/my-first-post/</link>
+      <link>https://miraclecheesebunnies.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 16 Nov 2019 18:52:25 +0000</pubDate>
       
-      <guid>https://blog.miraclecheesebunnies.cf/posts/my-first-post/</guid>
+      <guid>https://miraclecheesebunnies.github.io/posts/my-first-post/</guid>
       <description>Hi everyone! Welcome to Miracle Cheese Bunnies.</description>
+    </item>
+    
+    <item>
+      <title>Where the Bunnies Roam</title>
+      <link>https://miraclecheesebunnies.github.io/posts/where-the-bunnies-roam/</link>
+      <pubDate>Sat, 16 Nov 2019 07:00:00 +0000</pubDate>
+      
+      <guid>https://miraclecheesebunnies.github.io/posts/where-the-bunnies-roam/</guid>
+      <description>In the fields of green galore. Yes.</description>
     </item>
     
   </channel>
